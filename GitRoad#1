@@ -1,0 +1,49 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It will tell exactly where the difference is, and I won't waste my time and
+    energy on searching for one character that was mistyped and overlooked.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Version controll can help to get back to abandoned ideas, check bugs and 
+    it a nice feature to reduce anxiety in general.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    It is helpful, because other people can compare a full code with changes
+    with the previos version and decide on what is good. Collaboration tool.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git was created in mind of programmers and a tool for a more comfortable
+    creation of code. Google Docs are for collaborative working on a paper 
+    or throwing quick ideas on paper. (I don't like their version control)
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Never used them. Cannot tell for sertain.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    There is always a save file somewhere.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    To work on my project and practice using Git in general.
+
+How can you use the commands git log and git diff to view the history of files?
+	
+	I can see differences between different commits and it will help with version
+	control and useful in general.
+
+How might using version control make you more confident to make changes that could
+break something?
+
+	If I break something, there always will be a back up and an easy to find code
+	changes by using 'git dif [key1] [key2]'	
